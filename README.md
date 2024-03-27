@@ -1,3 +1,3 @@
-# rocketseat-ignite
+# Fundamentos NodeJS
 
-Repositório destinado a códigos da formação Ignite da Rockeseat
+Repositório destinado ao código referente ao módulo introdutório sobre NojeJS da RocketSeat.
