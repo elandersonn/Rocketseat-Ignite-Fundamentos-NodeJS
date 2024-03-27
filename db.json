@@ -1,1 +1,19 @@
-{"users":[{"id":"d9286e6e-dc86-4936-91a1-b3150b5e3f66","nome":"Elantra 2023","email":"hyundai.catatau@gmail.com"},{"id":"9b9bffff-f9ed-442e-9236-113997bc4e8c","name":"New Fiesta","email":"Kadett-Aspirado@gmail.com"},{"id":"ebc0c91c-eb2e-4935-b2d1-1f6bf9b1e096","nome":"Palio 2017","email":"palio.catatau@gmail.com"}]}
+{
+  "users": [
+    {
+      "id": "d9286e6e-dc86-4936-91a1-b3150b5e3f66",
+      "nome": "Elantra 2023",
+      "email": "hyundai.catatau@gmail.com"
+    },
+    {
+      "id": "9b9bffff-f9ed-442e-9236-113997bc4e8c",
+      "name": "New Fiesta",
+      "email": "Kadett-Aspirado@gmail.com"
+    },
+    {
+      "id": "ebc0c91c-eb2e-4935-b2d1-1f6bf9b1e096",
+      "nome": "Palio 2017",
+      "email": "palio.catatau@gmail.com"
+    }
+  ]
+}
